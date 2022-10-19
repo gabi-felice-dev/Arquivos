@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/19 08:10:58.000.069,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 08:11:25.000.029,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 08:12:11.000.946,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\U_CarregandoArquivos.pas</Transaction>
+    <Transaction>2022/10/19 08:12:11.000.947,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\U_CarregandoArquivos.dfm</Transaction>
+    <Transaction>2022/10/19 08:12:35.000.762,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCarregandoArquivos.dproj</Transaction>
+    <Transaction>2022/10/19 13:55:47.034,C:\Git\Delphi\Arquivos\U_CarregandoArquivos.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\U_CarregandoArquivos.pas</Transaction>
+    <Transaction>2022/10/19 13:55:47.034,C:\Git\Delphi\Arquivos\U_CarregandoArquivos.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\U_CarregandoArquivos.dfm</Transaction>
+    <Transaction>2022/10/19 14:01:49.509,C:\Git\Delphi\Arquivos\ProjetoCarregandoArquivos.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCarregandoArquivos.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
